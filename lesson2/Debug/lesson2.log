@@ -1,0 +1,7 @@
+﻿  main.cpp
+C:\sari\chani\lesson2\lesson2\main.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\sari\chani\lesson2\lesson2\function.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\sari\chani\lesson2\lesson2\main.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\sari\chani\lesson2\lesson2\random.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\sari\chani\lesson2\lesson2\random.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  lesson2.vcxproj -> C:\sari\chani\lesson2\lesson2\Debug\lesson2.exe
